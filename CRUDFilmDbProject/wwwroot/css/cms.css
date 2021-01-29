@@ -85,7 +85,7 @@ input[type=text], input[type=password], textarea {
 .edit {
     background-color: var(--edit-colour);
 }
-.delete {
+.delete, .error {
     background-color: var(--delete-colour);
     color: #fff;
 }
